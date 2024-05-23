@@ -14,8 +14,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.mapeamento.entities.Turma;
-import com.mapeamento.service.TurmaService;
+import com.avaliacao.entities.Turma;
+import com.avaliacao.service.TurmaService;
 
 import jakarta.validation.Valid;
 
